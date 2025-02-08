@@ -2,7 +2,7 @@
 
 **COMPANY NAME**: CODTECH IT SOLUTIONS
 
-**NAME** PAUL GIJU: THANNICKAL
+**NAME**: PAUL GIJU THANNICKAL
 
 **INTERN ID** : CT08JWE
 
@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NIKHILA SANTHOSH
 
-# ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORD
+#DESCRIPTION 
 
 A "joins practice task" typically refers to exercises designed to help individuals practice and understand SQL joins. These tasks generally involve combining data from two or more tables based on specific relationships (using keys like primary or foreign keys).
 Here’s a general description of what a joins practice task might entail:
